@@ -1,0 +1,164 @@
+
+---Upload files---
+Redux file was not uploaded. Error: El archivo indicado no cumple los requisitos de subida.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://localhost/miguel-otero-silva
+Data file = C:\xampp\htdocs\miguel-otero-silva/wp-content/uploads/2021/02/education-soul-content.xml
+Widget file = C:\xampp\htdocs\miguel-otero-silva/wp-content/uploads/2021/02/education-soul-widgets.wie
+Customizer file = C:\xampp\htdocs\miguel-otero-silva/wp-content/uploads/2021/02/education-soul-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Newsletter": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Newsletter": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Newsletter": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Newsletter": Invalid post type mc4wp-form
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Entradas recientes - No Title - Widget already exists
+Archivos - No Title - Imported
+Categorías - No Title - Imported
+Meta - No Title - Imported
+
+Footer Widget 1 : 
+
+Texto - About Us - Imported
+
+Footer Widget 2 : 
+
+Menú de navegación - Quick Links - Imported
+
+Footer Widget 3 : 
+
+Galería - Gallery - Imported
+
+Footer Widget 4 : 
+
+mc4wp_form_widget - Newsletter - Site does not support widget
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---cp-ctdi/after_import---
+
